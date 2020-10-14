@@ -1,0 +1,36 @@
+-------------------------------------------------------------------
+You may only use the Microsoft .NET Core Debugger (vsdbg) with
+Visual Studio Code, Visual Studio or Visual Studio for Mac software
+to help you develop and test your applications.
+-------------------------------------------------------------------
+Price -->Oranges, $10
+Price -->Apples-, $5
+Basket --> Oranges - 5, Apples 1
+items --> { [Oranges, 10], [Apples, 5] }
+basket --> [ [Oranges, 5],[Apples, 1]]
+Promotions -->
+Oranges --> 5 --> 10 --> 1 --> 50
+Apples --> 1 --> 5 --> 1 --> 55
+55.00
+--------------------------------------------------------------
+Price -->Oranges, $10
+Price -->Apples-, $5
+Basket --> Oranges - 5, Apples 1
+items --> { [Oranges, 10], [Apples, 5] }
+basket --> [ [Oranges, 5],[Apples, 1]]
+Promotions --> [Oranges, 0.5]
+Oranges --> 5 --> 10 --> 0.5 --> 25
+Apples --> 1 --> 5 --> 1 --> 30
+30.00
+==============================================================
+Price -->Oranges, $10
+Price -->Apples-, $5
+Basket --> Oranges - 5, Apples 1
+items --> { [Oranges, 10], [Apples, 5] }
+basket --> [ [Oranges, 5],[Apples, 1]]
+Promotions --> [Oranges, 0.5], [Apples, 1]
+Oranges --> 5 --> 10 --> 0.5 --> 25
+Apples --> 1 --> 5 --> 1 --> 30
+30.00
+==============================================================
+We are done!

@@ -1,0 +1,13 @@
+C:\Users\Owner\OneDrive\C#\fruit-calc\bin\Debug\netcoreapp3.1\fruit-calc.exe
+C:\Users\Owner\OneDrive\C#\fruit-calc\bin\Debug\netcoreapp3.1\fruit-calc.deps.json
+C:\Users\Owner\OneDrive\C#\fruit-calc\bin\Debug\netcoreapp3.1\fruit-calc.runtimeconfig.json
+C:\Users\Owner\OneDrive\C#\fruit-calc\bin\Debug\netcoreapp3.1\fruit-calc.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\C#\fruit-calc\bin\Debug\netcoreapp3.1\fruit-calc.dll
+C:\Users\Owner\OneDrive\C#\fruit-calc\bin\Debug\netcoreapp3.1\fruit-calc.pdb
+C:\Users\Owner\OneDrive\C#\fruit-calc\obj\Debug\netcoreapp3.1\fruit-calc.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\C#\fruit-calc\obj\Debug\netcoreapp3.1\fruit-calc.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\C#\fruit-calc\obj\Debug\netcoreapp3.1\fruit-calc.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\C#\fruit-calc\obj\Debug\netcoreapp3.1\fruit-calc.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\C#\fruit-calc\obj\Debug\netcoreapp3.1\fruit-calc.dll
+C:\Users\Owner\OneDrive\C#\fruit-calc\obj\Debug\netcoreapp3.1\fruit-calc.pdb
+C:\Users\Owner\OneDrive\C#\fruit-calc\obj\Debug\netcoreapp3.1\fruit-calc.genruntimeconfig.cache
